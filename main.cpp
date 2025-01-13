@@ -5,7 +5,7 @@
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
     Edits made by:
-    TODO: <Add name of student 1 Here> -- to be added by student 1
+    TODO: <Add Cody Bandy of student 1 Here> -- to be added by student 1
     TODO: <Feda Mohammadi of student 2 Here> -- to be added by student 2
  */
 #include <iostream>
